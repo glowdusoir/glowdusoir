@@ -1,16 +1,13 @@
-## Hi there 👋
+# Glow du Soir — Luxury Begins at Dusk
 
-<!--
-**glowdusoir/glowdusoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glow du Soir is a **luxury cosmetic and clothing brand website**. This is a static website built with **HTML, CSS, and JavaScript**, featuring:
 
-Here are some ideas to get you started:
+- Interactive product galleries
+- Customer reviews section
+- WhatsApp order integration
+- Smooth animations and custom cursor
+- Responsive design for mobile and desktop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Project Structure
